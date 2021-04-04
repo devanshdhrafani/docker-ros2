@@ -10,7 +10,7 @@ Dockerfile to build ROS2 Foxy on top of Ubuntu:20.04.
     ```bash
     docker tag <image-id> <image-tag>
     ```
-3. Modify `run_ros2.sh `, replace `dd_ros2` with your <image-tag>
+3. Modify `run_ros2.sh `, replace `dd_ros2` with `<image-tag>`
 
 4. Make a container:
     ```bash
