@@ -17,3 +17,4 @@ Dockerfile to build ROS2 Foxy on top of Ubuntu:20.04.
     ./run_ros2.sh
     ```
 
+**Note:** You can also directly pull the image from [DockerHub](https://hub.docker.com/r/devanshdhrafani/ros2-foxy). Be sure to update the packages before using. 
