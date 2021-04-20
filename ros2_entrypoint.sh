@@ -1,8 +1,6 @@
 #!/bin/bash
 set -e
 
-# Source files 
+# setup ros2 environment
 source "/opt/ros/foxy/setup.bash"
-#source "/root/dev_ws/install/local_setup.bash"
-
 exec "$@"
